@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5383c474-c76d-4a14-ae86-a69a089cd97c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_02IE.kt" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.teamcity/JavaScript/Project.kt" afterPath="$PROJECT_DIR$/.teamcity/JavaScript/Project.kt" />
-      <change beforePath="$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_03DeployToStaging.kt" afterPath="$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_03DeployToStaging.kt" />
-    </list>
+    <list default="true" id="5383c474-c76d-4a14-ae86-a69a089cd97c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.teamcity/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
