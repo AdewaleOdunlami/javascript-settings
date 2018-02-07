@@ -19,7 +19,7 @@ object JavaScript_03DeployToStaging : BuildType({
             name = "IIS Deploy"
             id = "RUNNER_5"
             scriptContent = """
-                xcopy app C:\inetpub\wwwroot\ /S /I \Y
+                xcopy app C:\inetpub\wwwroot /S /I \Y
                 """
         }
     }
