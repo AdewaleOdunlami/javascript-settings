@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
 <<<<<<< HEAD
     <list default="true" id="5383c474-c76d-4a14-ae86-a69a089cd97c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.teamcity/JavaScript/Project.kt" afterPath="$PROJECT_DIR$/.teamcity/JavaScript/Project.kt" />
+      <change beforePath="$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_02IE.kt" afterPath="$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_02IE.kt" />
+      <change beforePath="$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_03DeployToStaging.kt" afterPath="$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_03DeployToStaging.kt" />
     </list>
 =======
     <list default="true" id="5383c474-c76d-4a14-ae86-a69a089cd97c" name="Default" comment="" />
@@ -48,17 +49,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Project.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Project.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.teamcity/JavaScript/Project.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="400">
-              <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JavaScript_03DeployToStaging.kt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="JavaScript_03DeployToStaging.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_03DeployToStaging.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="725">
@@ -122,6 +123,7 @@
     <option name="CHANGED_PATHS">
       <list>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_02IE.kt" />
         <option value="$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_03DeployToStaging.kt" />
         <option value="$PROJECT_DIR$/.teamcity/JavaScript/Project.kt" />
@@ -130,6 +132,11 @@
         <option value="$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_03DeployToStaging.kt" />
         <option value="$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_02IE.kt" />
 >>>>>>> parent of c80b7d1... updated to edge from IE
+=======
+        <option value="$PROJECT_DIR$/.teamcity/JavaScript/Project.kt" />
+        <option value="$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_02IE.kt" />
+        <option value="$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_03DeployToStaging.kt" />
+>>>>>>> parent of f7c75ce... updated name
       </list>
     </option>
   </component>
@@ -374,6 +381,7 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <entry file="file://$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_Template.kt">
       <provider selected="true" editor-type-id="text-editor">
@@ -383,6 +391,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> parent of f7c75ce... updated name
     <entry file="file://$PROJECT_DIR$/.teamcity/JavaScript/Project.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -391,7 +401,10 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 >>>>>>> parent of c80b7d1... updated to edge from IE
+=======
+>>>>>>> parent of f7c75ce... updated name
     <entry file="file://$PROJECT_DIR$/.teamcity/JavaScript/settings.kts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -417,18 +430,26 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_Template.kt">
+=======
+    <entry file="file://$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_02IE.kt">
+>>>>>>> parent of f7c75ce... updated name
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_02Firefox.kt">
 =======
     <entry file="file://$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_03DeployToStaging.kt">
 >>>>>>> parent of c80b7d1... updated to edge from IE
+=======
+    <entry file="file://$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_02Chrome.kt">
+>>>>>>> parent of f7c75ce... updated name
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="725">
           <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
@@ -436,7 +457,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_02Chrome.kt">
+    <entry file="file://$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_02Firefox.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
@@ -444,6 +465,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_02IE.kt">
       <provider selected="true" editor-type-id="text-editor">
@@ -455,6 +477,12 @@
         <state relative-caret-position="100">
           <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
 >>>>>>> parent of c80b7d1... updated to edge from IE
+=======
+    <entry file="file://$PROJECT_DIR$/.teamcity/JavaScript/buildTypes/JavaScript_Template.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+>>>>>>> parent of f7c75ce... updated name
           <folding />
         </state>
       </provider>
@@ -463,14 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.teamcity/JavaScript/Project.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
           <folding />
         </state>
       </provider>
