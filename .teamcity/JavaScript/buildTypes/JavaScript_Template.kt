@@ -27,10 +27,4 @@ object JavaScript_Template : Template({
         }
         stepsOrder = arrayListOf("RUNNER_5", "RUNNER_6")
     }
-
-    triggers {
-        vcs {
-            id = "vcsTrigger"
-        }
-    }
 })
