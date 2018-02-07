@@ -20,7 +20,7 @@ object JavaScript_03DeployToStaging : BuildType({
             id = "RUNNER_5"
             scriptContent = """
                 rmdir /S /Q \inetpub\wwwroot
-                xcopy /S /I \Y app \inetpub\wwwroot\
+                xcopy /S /I \Y C:\Users\ade\Documents\GitHub\teamcity-course-cards\app \inetpub\wwwroot\
                 """
         }
     }
