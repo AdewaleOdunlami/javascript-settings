@@ -2,14 +2,14 @@ package JavaScript.buildTypes
 
 import jetbrains.buildServer.configs.kotlin.v2017_2.*
 
-object JavaScript_02Edge : BuildType({
+object JavaScript_02IE : BuildType({
     template(JavaScript.buildTypes.JavaScript_Template)
-    uuid = "javascript_02Edge"
-    id = "JavaScript_02Edge"
-    name = "02. Microsoft Edge"
+    uuid = "javascript_02ie"
+    id = "JavaScript_02IE"
+    name = "02. Internet Explorer"
 
     params {
-        param("Browser", "Edge")
+        param("Browser", "IE")
     }
 
     dependencies {
